@@ -3,7 +3,7 @@
 🌏 India Population Analysis 🌏
 
 Hello Everyone, 👋
-I made this Population Analysis Report in PowerBI with my own Dataset 2011 Census of India.
+I made this Population Analysis Report in PowerBI with one of my own Dataset 2011 Census of India.
 
 📝 Report has Multiple Section's from where you can manage the Data, Like:
 
