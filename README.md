@@ -1,5 +1,3 @@
-# India Population Analysis
-
 🌏 India Population Analysis 🌏
 
 Hello Everyone, 👋
@@ -14,6 +12,6 @@ I made this Population Analysis Report in PowerBI with one of my own Dataset 201
 
 3️⃣ And Lastly, It has 2 Pie Charts showing Rural vs Urban Population and Total Males vs Total Females.
 
-Link to Dataset : https://www.kaggle.com/datasets/themrityunjaypathak/2011-census-of-india
+📍**Link to Dataset :** [2011 Census of India](https://www.kaggle.com/datasets/themrityunjaypathak/2011-census-of-india)
 
 ![1676049164882](https://user-images.githubusercontent.com/123563634/232387112-24fc03dd-e037-4a7d-9fe4-07fd8eff1778.jpg)
