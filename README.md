@@ -1,4 +1,4 @@
-🌏 India Population Analysis 🌏
+**India Population Analysis**
 
 Hello Everyone, 👋
 
