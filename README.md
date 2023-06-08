@@ -16,7 +16,7 @@ I made this Population Analysis Report in PowerBI with one of my own Dataset 201
 
 ## Getting Started
 
-1. Clone the repository to your local machine using the following command :
+- Clone the repository to your local machine using the following command :
 ```
 git clone https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis.git
 ```
