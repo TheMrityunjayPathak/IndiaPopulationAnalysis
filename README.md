@@ -30,4 +30,4 @@ git clone https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis.git
 ## Link to Dataset
 [2011 Census of India](https://www.kaggle.com/datasets/themrityunjaypathak/2011-census-of-india)
 
-![1676049164882](https://user-images.githubusercontent.com/123563634/232387112-24fc03dd-e037-4a7d-9fe4-07fd8eff1778.jpg)
+![1676049164882](https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis/assets/123563634/82451fc0-0216-4a76-807f-6b03d6a70a1b)
