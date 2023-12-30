@@ -2,7 +2,7 @@
 
 Hello Everyone,
 
-I made this Population Analysis Report in PowerBI with one of my own Dataset 2011 Census of India.
+I made this Population Analysis Report in Power BI with one of my own Dataset 2011 Census of India.
 
 ## Problem Statement
 
