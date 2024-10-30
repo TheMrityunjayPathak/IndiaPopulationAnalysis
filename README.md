@@ -1,28 +1,26 @@
 ## India Population Analysis
 
-Hello Everyone,
-
-I made this Population Analysis Dashboard in Power BI with one of my own Dataset 2011 Census of India.
+Hello Everyone, I made this Population Analysis Dashboard in Power BI with one of my own dataset 2011 Census of India.
 
 ## Problem Statement
 
-- The aim of this Power BI dashboard project is to perform a comprehensive analysis of the Indian population using available demographic data. 
+- The aim of this Power BI dashboard project is to perform a comprehensive analysis of the Indian Population using available demographic data. 
 
 - To provide insights and visualizations that help stakeholders understand the population dynamics, trends and patterns across various demographic factors.
 
 ## Sections in the Report
 
-**Report has Multiple Section's from where you can manage the Data, Like :**
+**Report has multiple section's from where you can manage the data, like :**
 
-- Report Data can be sliced by Country to show Particular Data.
+- Report data can be sliced by country to show particular data.
 
 - It has cards showing Capital, Total Population, Area, Literacy Rate, Sex Ratio.
 
-- And Lastly, It has 2 Pie Charts showing Rural vs Urban Population and Total Males vs Total Females.
+- And Lastly, It has 2 pie charts showing Rural vs Urban Population and Total Males vs Total Females.
 
 ## Getting Started
 
-- Clone the repository to your local machine using the following command :
+- Clone this repository to your local machine by using the following command :
 ```
 git clone https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis.git
 ```
