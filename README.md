@@ -6,7 +6,7 @@ I made this Population Analysis Dashboard in Power BI with one of my own dataset
 
 ## Problem Statement
 
-The aim of this Power BI dashboard project is to perform a comprehensive analysis of the Indian Population using available demographic data. 
+The aim of this Power BI Dashboard is to perform a comprehensive analysis of the Indian Population using available demographic data. 
 
 To provide insights and visualizations that help stakeholders understand the population dynamics, trends and patterns across various demographic factors.
 
