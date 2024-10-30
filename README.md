@@ -16,9 +16,9 @@ To provide insights and visualizations that help stakeholders understand the pop
 
 - Report data can be sliced by country to show particular data.
 
-- It has cards showing Capital, Total Population, Area, Literacy Rate, Sex Ratio.
+- Report has cards showing Capital, Total Population, Area, Literacy Rate, Sex Ratio.
 
-- And Lastly, It has 2 pie charts showing Rural vs Urban Population and Total Males vs Total Females.
+- And Lastly, Report has 2 pie charts showing Rural vs Urban Population and Total Males vs Total Females.
 
 ## Getting Started
 
