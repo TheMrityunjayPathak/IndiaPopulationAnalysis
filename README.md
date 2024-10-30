@@ -1,12 +1,14 @@
 ## India Population Analysis
 
-Hello Everyone, I made this Population Analysis Dashboard in Power BI with one of my own dataset 2011 Census of India.
+Hello Everyone,
+
+I made this Population Analysis Dashboard in Power BI with one of my own dataset 2011 Census of India.
 
 ## Problem Statement
 
-- The aim of this Power BI dashboard project is to perform a comprehensive analysis of the Indian Population using available demographic data. 
+The aim of this Power BI dashboard project is to perform a comprehensive analysis of the Indian Population using available demographic data. 
 
-- To provide insights and visualizations that help stakeholders understand the population dynamics, trends and patterns across various demographic factors.
+To provide insights and visualizations that help stakeholders understand the population dynamics, trends and patterns across various demographic factors.
 
 ## Sections in the Report
 
