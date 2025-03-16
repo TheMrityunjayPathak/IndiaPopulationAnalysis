@@ -18,7 +18,7 @@ To provide insights and visualizations that help stakeholders understand the pop
 
 - Report has cards showing Capital, Total Population, Area, Literacy Rate, Sex Ratio.
 
-- And Lastly, Report has 2 pie charts showing Rural vs Urban Population and Total Males vs Total Females.
+- And lastly, Report has 2 pie charts showing Rural vs Urban Population and Total Males vs Total Females.
 
 ## Getting Started
 
