@@ -6,9 +6,7 @@ I made this Population Analysis Dashboard in Power BI with one of my own dataset
 
 ## Problem Statement
 
-The aim of this Power BI Dashboard is to perform a comprehensive analysis of the Indian Population using available demographic data. 
-
-To provide insights and visualizations that help stakeholders understand the population dynamics, trends and patterns across various demographic factors.
+To create a dashboard that deliver insights and visuals that reveal population trends, patterns and demographics.
 
 ## Sections in the Report
 
@@ -22,12 +20,12 @@ To provide insights and visualizations that help stakeholders understand the pop
 
 ## Getting Started
 
-- Clone this repository to your local machine by using the following command :
+Clone this repository to your local machine by using the following command :
 ```
 git clone https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis.git
 ```
 
-## Link to Dataset
+## Link to the Dataset
 [India Population Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/2011-census-of-india)
 
 ![1676049164882](https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis/assets/123563634/82451fc0-0216-4a76-807f-6b03d6a70a1b)
