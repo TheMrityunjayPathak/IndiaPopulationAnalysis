@@ -10,10 +10,10 @@
 <hr>
 
 ## Sections in the Report
-- Report has multiple section's from where you can manage the data, like :
-    - Report data can be sliced by country to show particular data.
-    - Report has cards showing Capital, Total Population, Area, Literacy Rate, Sex Ratio.
-    - And lastly, Report has 2 pie charts showing Rural vs Urban Population and Total Males vs Total Females.
+Report has multiple section's from where you can manage the data, like :
+- Report data can be sliced by country to show particular data.
+- Report has cards showing Capital, Total Population, Area, Literacy Rate, Sex Ratio.
+- And lastly, Report has 2 pie charts showing Rural vs Urban Population and Total Males vs Total Females.
 
 <hr>
 
